@@ -1,6 +1,12 @@
 # Mobile-Price-Classification-Kaggle
 
+Data Source : https:www.kaggle.com
 
+The data is about a mobile company owner who is not sure how to price his phones strategically. Hence decided to collect the data of the smartphones that have launched recently. The Analysis.ipynb contains the codes from cleanisng to analysing and visualizing and the machine learning models that help classify between the classes. 
+The data was 100% balanced between the classes and hence took the accuracy as the metric. 
+
+
+Here are the metrics :
 
 
 accuracy : 0.95
