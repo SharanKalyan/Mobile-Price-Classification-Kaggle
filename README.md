@@ -2,9 +2,10 @@
 
 Data Source : https:www.kaggle.com
 
-The data is about a mobile company owner who is not sure how to price his phones strategically. Hence decided to collect the data of the smartphones that have launched recently. The Analysis.ipynb contains the codes from cleanisng to analysing and visualizing and the machine learning models that help classify between the classes. 
-The data was 100% balanced between the classes and hence took the accuracy as the metric. 
+The data is about a mobile company owner who is not sure how to price his phones strategically. Hence decided to collect the data of the smartphones that have launched recently. The Analysis.ipynb contains the codes from cleanisng to analysing and visualizing and the machine learning models that help classify between the classes. During the analysis, I was able to infer the most important features, but havent removed the other features for modelling.! I will be working on removing the unwanetd features and only have the necessary features and then compare the results between the 2 models. 
 
+
+The data was 100% balanced between the classes and hence took the accuracy as the metric.
 
 Here are the metrics :
 
