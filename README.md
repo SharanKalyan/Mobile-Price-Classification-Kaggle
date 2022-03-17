@@ -12,7 +12,7 @@ The data was 100% balanced between the classes and hence took the accuracy as th
 Here are the metrics :
 
 
-accuracy : 0.959
+accuracy : 0.95
 
 confusion matrix :
 
